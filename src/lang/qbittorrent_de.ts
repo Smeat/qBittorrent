@@ -435,7 +435,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../preferences/advancedsettings.h" line="231"/>
         <source>IP Address to report to trackers (requires restart)</source>
-        <translation>IP Adresse die bei Trackern angegeben werden soll (Neustart benötigtr)</translation>
+        <translation>IP Adresse die bei Trackern angegeben werden soll (Neustart benötigt)</translation>
     </message>
     <message>
         <location filename="../preferences/advancedsettings.h" line="234"/>
